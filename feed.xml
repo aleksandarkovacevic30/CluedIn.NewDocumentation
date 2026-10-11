@@ -1,1 +1,2236 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://aleksandarkovacevic30.github.io/CluedIn.NewDocumentation/feed.xml" rel="self" type="application/atom+xml" /><link href="https://aleksandarkovacevic30.github.io/CluedIn.NewDocumentation/" rel="alternate" type="text/html" /><updated>2026-09-04T11:59:22+00:00</updated><id>https://aleksandarkovacevic30.github.io/CluedIn.NewDocumentation/feed.xml</id><title type="html">CluedIn Documentation</title><subtitle>CluedIn documentation organised around the data lifecycle — ingest, model, master, govern, publish.</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>CluedIn Documentation</title>
+    <link href="https://aleksandarkovacevic30.github.io"/>
+    <updated>2026-10-11T16:34:05+00:00</updated>
+    <author>
+        <name>CluedIn</name>
+    </author>
+    <id>https://aleksandarkovacevic30.github.io/</id>
+    
+    
+    <entry>
+        <title>GraphQL</title>
+        <link href="https://aleksandarkovacevic30.github.io/publish/graphql" />
+        <id>https://aleksandarkovacevic30.github.io/publish/graphql</id>
+        <updated>2021-10-08T00:00:00+00:00</updated>
+        <summary>
+        
+        GraphQL.
+        
+        
+        GraphQL is the query interface for reading golden records on demand, as opposed to streams, which push them continuously.
+        
+        
+        Tags: consume, graphql.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>AKS</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/azure/aks" />
+        <id>https://aleksandarkovacevic30.github.io/operate/azure/aks</id>
+        <updated>2021-11-15T00:00:00+00:00</updated>
+        <summary>
+        
+        AKS.
+        
+        
+        
+        Tags: deployment, kubernetes, azure, aks.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>DNS</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/azure/dns" />
+        <id>https://aleksandarkovacevic30.github.io/operate/azure/dns</id>
+        <updated>2021-11-15T00:00:00+00:00</updated>
+        <summary>
+        
+        DNS.
+        
+        
+        
+        Tags: deployment, azure, dns.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>TLS Certificate</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/azure/certificate" />
+        <id>https://aleksandarkovacevic30.github.io/operate/azure/certificate</id>
+        <updated>2021-11-15T00:00:00+00:00</updated>
+        <summary>
+        
+        TLS Certificate.
+        
+        
+        
+        Tags: deployment, kubernetes, azure, certificate, ssl, tls.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Disks</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/azure/disks" />
+        <id>https://aleksandarkovacevic30.github.io/operate/azure/disks</id>
+        <updated>2021-11-15T00:00:00+00:00</updated>
+        <summary>
+        
+        Disks.
+        
+        
+        
+        Tags: deployment, kubernetes, azure, aks, disk.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Email</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/azure/email" />
+        <id>https://aleksandarkovacevic30.github.io/operate/azure/email</id>
+        <updated>2021-11-15T00:00:00+00:00</updated>
+        <summary>
+        
+        Email.
+        
+        
+        
+        Tags: deployment, azure, email.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>PAT</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/azure/pat" />
+        <id>https://aleksandarkovacevic30.github.io/operate/azure/pat</id>
+        <updated>2021-11-15T00:00:00+00:00</updated>
+        <summary>
+        
+        PAT.
+        
+        
+        
+        Tags: deployment, kubernetes, azure, nuget, pat.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Helm</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/azure/helm" />
+        <id>https://aleksandarkovacevic30.github.io/operate/azure/helm</id>
+        <updated>2021-11-15T00:00:00+00:00</updated>
+        <summary>
+        
+        Helm.
+        
+        
+        
+        Tags: deployment, kubernetes, azure, aks, helm, cluedin.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>CluedIn Setup</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/azure/setup" />
+        <id>https://aleksandarkovacevic30.github.io/operate/azure/setup</id>
+        <updated>2022-01-07T00:00:00+00:00</updated>
+        <summary>
+        
+        CluedIn Setup.
+        
+        
+        
+        Tags: deployment, installation, setup, azure.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>About integrations</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/connectors/about-integrations" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/connectors/about-integrations</id>
+        <updated>2022-01-12T00:00:00+00:00</updated>
+        <summary>
+        
+        About integrations.
+        
+        
+        
+        Tags: integration.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>CluedIn Security — Log4j2 CVE-2021-44228</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/security/log4j" />
+        <id>https://aleksandarkovacevic30.github.io/operate/security/log4j</id>
+        <updated>2022-01-31T00:00:00+00:00</updated>
+        <summary>
+        
+        CluedIn Security — Log4j2 CVE-2021-44228.
+        
+        
+        
+        Tags: security.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Power Apps features</title>
+        <link href="https://aleksandarkovacevic30.github.io/solutions/power-apps/features" />
+        <id>https://aleksandarkovacevic30.github.io/solutions/power-apps/features</id>
+        <updated>2023-05-17T00:00:00+00:00</updated>
+        <summary>
+        
+        Power Apps features.
+        
+        
+        
+        Tags: integration, microsoft, powerapps, dataverse.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Connect to CluedIn cluster</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/configuration/connect-to-cluedin" />
+        <id>https://aleksandarkovacevic30.github.io/operate/configuration/connect-to-cluedin</id>
+        <updated>2023-06-20T00:00:00+00:00</updated>
+        <summary>
+        
+        Connect to CluedIn cluster.
+        
+        
+        
+        Tags: deployment, ama, marketplace, azure.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Business decisions</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/azure-marketplace/step-1" />
+        <id>https://aleksandarkovacevic30.github.io/operate/azure-marketplace/step-1</id>
+        <updated>2023-06-20T00:00:00+00:00</updated>
+        <summary>
+        
+        Business decisions.
+        
+        
+        
+        Tags: deployment, ama, marketplace, azure.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Installation guide</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/azure-marketplace/step-3" />
+        <id>https://aleksandarkovacevic30.github.io/operate/azure-marketplace/step-3</id>
+        <updated>2023-06-20T00:00:00+00:00</updated>
+        <summary>
+        
+        Installation guide.
+        
+        
+        
+        Tags: deployment, ama, marketplace, azure.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Post-installation guide</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/azure-marketplace/step-4" />
+        <id>https://aleksandarkovacevic30.github.io/operate/azure-marketplace/step-4</id>
+        <updated>2023-06-20T00:00:00+00:00</updated>
+        <summary>
+        
+        Post-installation guide.
+        
+        
+        
+        Tags: deployment, ama, marketplace, azure.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Logging</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/configuration/configure-logging" />
+        <id>https://aleksandarkovacevic30.github.io/operate/configuration/configure-logging</id>
+        <updated>2023-06-20T00:00:00+00:00</updated>
+        <summary>
+        
+        Logging.
+        
+        
+        
+        Tags: deployment, ama, marketplace, azure.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>TLS certificates</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/configuration/configure-certificates" />
+        <id>https://aleksandarkovacevic30.github.io/operate/configuration/configure-certificates</id>
+        <updated>2023-06-20T00:00:00+00:00</updated>
+        <summary>
+        
+        TLS certificates.
+        
+        
+        
+        Tags: deployment, ama, marketplace, azure, tls, ssl, certificates.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Alerts</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/configuration/configure-alerts" />
+        <id>https://aleksandarkovacevic30.github.io/operate/configuration/configure-alerts</id>
+        <updated>2023-06-23T00:00:00+00:00</updated>
+        <summary>
+        
+        Alerts.
+        
+        
+        
+        Tags: deployment, ama, marketplace, azure.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Firewall</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/configuration/configure-firewall" />
+        <id>https://aleksandarkovacevic30.github.io/operate/configuration/configure-firewall</id>
+        <updated>2023-06-23T00:00:00+00:00</updated>
+        <summary>
+        
+        Firewall.
+        
+        
+        
+        Tags: deployment, ama, marketplace, azure.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Local installation checklist</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/local/step-1" />
+        <id>https://aleksandarkovacevic30.github.io/operate/local/step-1</id>
+        <updated>2023-06-30T00:00:00+00:00</updated>
+        <summary>
+        
+        Local installation checklist.
+        
+        
+        
+        Tags: deployment, local.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Local installation guide</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/local/step-2" />
+        <id>https://aleksandarkovacevic30.github.io/operate/local/step-2</id>
+        <updated>2023-06-30T00:00:00+00:00</updated>
+        <summary>
+        
+        Local installation guide.
+        
+        
+        
+        Tags: deployment, local.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Extension packages</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/local/step-3" />
+        <id>https://aleksandarkovacevic30.github.io/operate/local/step-3</id>
+        <updated>2023-06-30T00:00:00+00:00</updated>
+        <summary>
+        
+        Extension packages.
+        
+        
+        
+        Tags: deployment, local.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Local upgrade</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/local/local-upgrade" />
+        <id>https://aleksandarkovacevic30.github.io/operate/local/local-upgrade</id>
+        <updated>2023-06-30T00:00:00+00:00</updated>
+        <summary>
+        
+        Local upgrade.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Local</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/deployment-options/local" />
+        <id>https://aleksandarkovacevic30.github.io/operate/deployment-options/local</id>
+        <updated>2023-07-04T00:00:00+00:00</updated>
+        <summary>
+        
+        Local.
+        
+        
+        
+        Tags: deployment, docker, docker-compose, local-deployment.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Create mapping</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/mapping/create-mapping" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/mapping/create-mapping</id>
+        <updated>2023-11-07T00:00:00+00:00</updated>
+        <summary>
+        
+        Create mapping.
+        
+        
+        
+        Tags: integration, mapping.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Define data to ingest</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/data-sources/define-data-to-ingest" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/data-sources/define-data-to-ingest</id>
+        <updated>2023-11-07T00:00:00+00:00</updated>
+        <summary>
+        
+        Define data to ingest.
+        
+        
+        
+        Tags: integration.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Logs</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/troubleshooting/logs" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/troubleshooting/logs</id>
+        <updated>2023-11-07T00:00:00+00:00</updated>
+        <summary>
+        
+        Logs.
+        
+        
+        
+        Tags: integration, logs.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Review mapping</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/mapping/review-mapping" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/mapping/review-mapping</id>
+        <updated>2023-11-07T00:00:00+00:00</updated>
+        <summary>
+        
+        Review mapping.
+        
+        
+        
+        Tags: integration, mapping.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Connectors</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/connectors" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/connectors</id>
+        <updated>2023-11-07T00:00:00+00:00</updated>
+        <summary>
+        
+        Connectors.
+        
+        
+        A connector crawls an external system and turns what it finds into clues.
+        
+        
+        Tags: integration, crawlers.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Data sources</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/data-sources" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/data-sources</id>
+        <updated>2023-11-07T00:00:00+00:00</updated>
+        <summary>
+        
+        Data sources.
+        
+        
+        A data source is where records come from.
+        
+        
+        Tags: integration, data sources.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Architecture overview</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/architecture" />
+        <id>https://aleksandarkovacevic30.github.io/operate/architecture</id>
+        <updated>2023-11-08T00:00:00+00:00</updated>
+        <summary>
+        
+        Architecture overview.
+        
+        
+        
+        Tags: deployment, ama, marketplace, azure, architecture.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Rule types</title>
+        <link href="https://aleksandarkovacevic30.github.io/govern/rules/rule-types" />
+        <id>https://aleksandarkovacevic30.github.io/govern/rules/rule-types</id>
+        <updated>2023-11-16T00:00:00+00:00</updated>
+        <summary>
+        
+        Rule types.
+        
+        
+        
+        Tags: management, rules.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Create a rule</title>
+        <link href="https://aleksandarkovacevic30.github.io/govern/rules/create-rule" />
+        <id>https://aleksandarkovacevic30.github.io/govern/rules/create-rule</id>
+        <updated>2023-11-16T00:00:00+00:00</updated>
+        <summary>
+        
+        Create a rule.
+        
+        
+        
+        Tags: management, rules.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>File</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/data-sources/file" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/data-sources/file</id>
+        <updated>2024-01-15T00:00:00+00:00</updated>
+        <summary>
+        
+        File.
+        
+        
+        
+        Tags: integration.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>History</title>
+        <link href="https://aleksandarkovacevic30.github.io/master/golden-records/history" />
+        <id>https://aleksandarkovacevic30.github.io/master/golden-records/history</id>
+        <updated>2024-01-15T00:00:00+00:00</updated>
+        <summary>
+        
+        History.
+        
+        
+        
+        Tags: golden record history.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Property rules</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/mapping/property-rules" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/mapping/property-rules</id>
+        <updated>2024-01-15T00:00:00+00:00</updated>
+        <summary>
+        
+        Property rules.
+        
+        
+        
+        Tags: integration, property rules.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Database</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/data-sources/database" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/data-sources/database</id>
+        <updated>2024-01-15T00:00:00+00:00</updated>
+        <summary>
+        
+        Database.
+        
+        
+        
+        Tags: integration.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Pre-process rules</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/mapping/preprocess-rules" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/mapping/preprocess-rules</id>
+        <updated>2024-01-15T00:00:00+00:00</updated>
+        <summary>
+        
+        Pre-process rules.
+        
+        
+        
+        Tags: integration, pre-process rules.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Advanced mapping code</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/mapping/advanced-mapping-code" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/mapping/advanced-mapping-code</id>
+        <updated>2024-01-15T00:00:00+00:00</updated>
+        <summary>
+        
+        Advanced mapping code.
+        
+        
+        
+        Tags: integration, property rules.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Streams</title>
+        <link href="https://aleksandarkovacevic30.github.io/publish/streams" />
+        <id>https://aleksandarkovacevic30.github.io/publish/streams</id>
+        <updated>2024-01-15T00:00:00+00:00</updated>
+        <summary>
+        
+        Streams.
+        
+        
+        A stream is a continuous export: you define which golden records and which properties, point it at an export target, and CluedIn keeps the target up to date as the data changes.
+        
+        
+        Tags: consume, data export, streams.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Stream reference</title>
+        <link href="https://aleksandarkovacevic30.github.io/publish/streams/stream-reference" />
+        <id>https://aleksandarkovacevic30.github.io/publish/streams/stream-reference</id>
+        <updated>2024-01-16T00:00:00+00:00</updated>
+        <summary>
+        
+        Stream reference.
+        
+        
+        
+        Tags: consume, data export, streams.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Sync certificates and secrets from AKV to AKS</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/configuration/sync-aks-to-akv" />
+        <id>https://aleksandarkovacevic30.github.io/operate/configuration/sync-aks-to-akv</id>
+        <updated>2024-02-05T00:00:00+00:00</updated>
+        <summary>
+        
+        Sync certificates and secrets from AKV to AKS.
+        
+        
+        
+        Tags: kubernetes, azure, aks, akv, key-vault, azure.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>SSO</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/configuration/configure-sso" />
+        <id>https://aleksandarkovacevic30.github.io/operate/configuration/configure-sso</id>
+        <updated>2024-02-29T00:00:00+00:00</updated>
+        <summary>
+        
+        SSO.
+        
+        
+        
+        Tags: deployment, ama, marketplace, azure.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Pre-installation checklist</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/azure-marketplace/step-2" />
+        <id>https://aleksandarkovacevic30.github.io/operate/azure-marketplace/step-2</id>
+        <updated>2024-03-01T00:00:00+00:00</updated>
+        <summary>
+        
+        Pre-installation checklist.
+        
+        
+        
+        Tags: deployment, ama, marketplace, azure, prerequisites.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Advanced network configuration</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/configuration/advanced-network" />
+        <id>https://aleksandarkovacevic30.github.io/operate/configuration/advanced-network</id>
+        <updated>2024-03-01T00:00:00+00:00</updated>
+        <summary>
+        
+        Advanced network configuration.
+        
+        
+        
+        Tags: deployment, ama, marketplace, azure.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>AKS upgrade</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/upgrade/aks" />
+        <id>https://aleksandarkovacevic30.github.io/operate/upgrade/aks</id>
+        <updated>2024-03-27T00:00:00+00:00</updated>
+        <summary>
+        
+        AKS upgrade.
+        
+        
+        
+        Tags: deployment, ama, marketplace, azure, aks, kubernetes, upgrade.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Azure requirements</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/azure-marketplace/requirements" />
+        <id>https://aleksandarkovacevic30.github.io/operate/azure-marketplace/requirements</id>
+        <updated>2024-04-08T00:00:00+00:00</updated>
+        <summary>
+        
+        Azure requirements.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Private SaaS - Azure Market Place</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/azure-marketplace/installation-guide" />
+        <id>https://aleksandarkovacevic30.github.io/operate/azure-marketplace/installation-guide</id>
+        <updated>2024-04-08T00:00:00+00:00</updated>
+        <summary>
+        
+        Private SaaS - Azure Market Place.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>DNS</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/configuration/configure-dns" />
+        <id>https://aleksandarkovacevic30.github.io/operate/configuration/configure-dns</id>
+        <updated>2024-05-09T00:00:00+00:00</updated>
+        <summary>
+        
+        DNS.
+        
+        
+        
+        Tags: deployment, ama, marketplace, azure, dns, domain name system.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Backup and restore</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/backup-and-restore" />
+        <id>https://aleksandarkovacevic30.github.io/operate/backup-and-restore</id>
+        <updated>2024-06-13T00:00:00+00:00</updated>
+        <summary>
+        
+        Backup and restore.
+        
+        
+        Protecting an installation and getting it back.
+        
+        
+        Tags: deployment, ama, marketplace, azure, backup, disaster recovery, DR.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Removal of records</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/processing/remove-records" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/processing/remove-records</id>
+        <updated>2024-08-26T00:00:00+00:00</updated>
+        <summary>
+        
+        Removal of records.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>HTTP connector</title>
+        <link href="https://aleksandarkovacevic30.github.io/publish/export-targets/http-connector" />
+        <id>https://aleksandarkovacevic30.github.io/publish/export-targets/http-connector</id>
+        <updated>2024-10-28T00:00:00+00:00</updated>
+        <summary>
+        
+        HTTP connector.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Process data</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/processing/process-data" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/processing/process-data</id>
+        <updated>2024-10-31T00:00:00+00:00</updated>
+        <summary>
+        
+        Process data.
+        
+        
+        
+        Tags: integration, processing.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Quarantine</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/troubleshooting/quarantine" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/troubleshooting/quarantine</id>
+        <updated>2024-10-31T00:00:00+00:00</updated>
+        <summary>
+        
+        Quarantine.
+        
+        
+        
+        Tags: integration, quarantine.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Endpoint</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/data-sources/endpoint" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/data-sources/endpoint</id>
+        <updated>2024-10-31T00:00:00+00:00</updated>
+        <summary>
+        
+        Endpoint.
+        
+        
+        
+        Tags: integration.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Release 2024.12</title>
+        <link href="https://aleksandarkovacevic30.github.io/release-notes/2024-12" />
+        <id>https://aleksandarkovacevic30.github.io/release-notes/2024-12</id>
+        <updated>2024-12-13T00:00:00+00:00</updated>
+        <summary>
+        
+        Release 2024.12.
+        
+        
+        A new home dashboard, access control, golden record export, and workflows.
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Create a service principal</title>
+        <link href="https://aleksandarkovacevic30.github.io/publish/export-targets/create-service-principal" />
+        <id>https://aleksandarkovacevic30.github.io/publish/export-targets/create-service-principal</id>
+        <updated>2025-01-07T00:00:00+00:00</updated>
+        <summary>
+        
+        Create a service principal.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Azure Dedicated SQL Pool connector</title>
+        <link href="https://aleksandarkovacevic30.github.io/publish/export-targets/azure-dedicated-sql-pool-connector" />
+        <id>https://aleksandarkovacevic30.github.io/publish/export-targets/azure-dedicated-sql-pool-connector</id>
+        <updated>2025-01-09T00:00:00+00:00</updated>
+        <summary>
+        
+        Azure Dedicated SQL Pool connector.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Azure Service Bus connector</title>
+        <link href="https://aleksandarkovacevic30.github.io/publish/export-targets/azure-service-bus-connector" />
+        <id>https://aleksandarkovacevic30.github.io/publish/export-targets/azure-service-bus-connector</id>
+        <updated>2025-01-09T00:00:00+00:00</updated>
+        <summary>
+        
+        Azure Service Bus connector.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Query data using GraphQL and Python SDK</title>
+        <link href="https://aleksandarkovacevic30.github.io/develop/python-sdk/search" />
+        <id>https://aleksandarkovacevic30.github.io/develop/python-sdk/search</id>
+        <updated>2025-01-14T00:00:00+00:00</updated>
+        <summary>
+        
+        Query data using GraphQL and Python SDK.
+        
+        
+        
+        Tags: python.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Using Python SDK for Automation</title>
+        <link href="https://aleksandarkovacevic30.github.io/develop/python-sdk/automation" />
+        <id>https://aleksandarkovacevic30.github.io/develop/python-sdk/automation</id>
+        <updated>2025-01-14T00:00:00+00:00</updated>
+        <summary>
+        
+        Using Python SDK for Automation.
+        
+        
+        
+        Tags: python.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Ingesting data to CluedIn with Python</title>
+        <link href="https://aleksandarkovacevic30.github.io/develop/python-sdk/ingestion" />
+        <id>https://aleksandarkovacevic30.github.io/develop/python-sdk/ingestion</id>
+        <updated>2025-01-14T00:00:00+00:00</updated>
+        <summary>
+        
+        Ingesting data to CluedIn with Python.
+        
+        
+        
+        Tags: python.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Exporting data to and from CluedIn with Python</title>
+        <link href="https://aleksandarkovacevic30.github.io/develop/python-sdk/export" />
+        <id>https://aleksandarkovacevic30.github.io/develop/python-sdk/export</id>
+        <updated>2025-01-14T00:00:00+00:00</updated>
+        <summary>
+        
+        Exporting data to and from CluedIn with Python.
+        
+        
+        
+        Tags: python.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>CluedIn Magic</title>
+        <link href="https://aleksandarkovacevic30.github.io/develop/python-sdk/magic" />
+        <id>https://aleksandarkovacevic30.github.io/develop/python-sdk/magic</id>
+        <updated>2025-01-15T00:00:00+00:00</updated>
+        <summary>
+        
+        CluedIn Magic.
+        
+        
+        
+        Tags: python.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Extending CluedIn with Microsoft integrations</title>
+        <link href="https://aleksandarkovacevic30.github.io/playbooks/data-engineering/extending-cluedin-with-microsoft-integrations" />
+        <id>https://aleksandarkovacevic30.github.io/playbooks/data-engineering/extending-cluedin-with-microsoft-integrations</id>
+        <updated>2025-01-16T00:00:00+00:00</updated>
+        <summary>
+        
+        Extending CluedIn with Microsoft integrations.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Monitoring</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/troubleshooting/monitoring" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/troubleshooting/monitoring</id>
+        <updated>2025-02-04T00:00:00+00:00</updated>
+        <summary>
+        
+        Monitoring.
+        
+        
+        
+        Tags: integration, monitoring.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Azure Data Lake connector</title>
+        <link href="https://aleksandarkovacevic30.github.io/publish/export-targets/adl-connector" />
+        <id>https://aleksandarkovacevic30.github.io/publish/export-targets/adl-connector</id>
+        <updated>2025-02-05T00:00:00+00:00</updated>
+        <summary>
+        
+        Azure Data Lake connector.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Customization in CluedIn</title>
+        <link href="https://aleksandarkovacevic30.github.io/playbooks/data-engineering/customization-in-cluedin" />
+        <id>https://aleksandarkovacevic30.github.io/playbooks/data-engineering/customization-in-cluedin</id>
+        <updated>2025-02-05T00:00:00+00:00</updated>
+        <summary>
+        
+        Customization in CluedIn.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>OneLake connector</title>
+        <link href="https://aleksandarkovacevic30.github.io/publish/export-targets/onelake-connector" />
+        <id>https://aleksandarkovacevic30.github.io/publish/export-targets/onelake-connector</id>
+        <updated>2025-02-05T00:00:00+00:00</updated>
+        <summary>
+        
+        OneLake connector.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>File name patterns</title>
+        <link href="https://aleksandarkovacevic30.github.io/publish/export-targets/file-name-patterns" />
+        <id>https://aleksandarkovacevic30.github.io/publish/export-targets/file-name-patterns</id>
+        <updated>2025-02-05T00:00:00+00:00</updated>
+        <summary>
+        
+        File name patterns.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Power Automate pre-configuration guide</title>
+        <link href="https://aleksandarkovacevic30.github.io/solutions/power-automate/pre-configuration-guide" />
+        <id>https://aleksandarkovacevic30.github.io/solutions/power-automate/pre-configuration-guide</id>
+        <updated>2025-03-13T00:00:00+00:00</updated>
+        <summary>
+        
+        Power Automate pre-configuration guide.
+        
+        
+        
+        Tags: integration, microsoft, powerapps, dataverse.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Power Apps pre-configuration guide</title>
+        <link href="https://aleksandarkovacevic30.github.io/solutions/power-apps/pre-configuration-guide" />
+        <id>https://aleksandarkovacevic30.github.io/solutions/power-apps/pre-configuration-guide</id>
+        <updated>2025-03-13T00:00:00+00:00</updated>
+        <summary>
+        
+        Power Apps pre-configuration guide.
+        
+        
+        
+        Tags: integration, microsoft, powerapps, dataverse.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Power Automate configuration guide</title>
+        <link href="https://aleksandarkovacevic30.github.io/solutions/power-automate/configuration-guide" />
+        <id>https://aleksandarkovacevic30.github.io/solutions/power-automate/configuration-guide</id>
+        <updated>2025-03-13T00:00:00+00:00</updated>
+        <summary>
+        
+        Power Automate configuration guide.
+        
+        
+        
+        Tags: integration, microsoft, powerapps, dataverse.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Power Automate post-configuration guide</title>
+        <link href="https://aleksandarkovacevic30.github.io/solutions/power-automate/post-configuration-guide" />
+        <id>https://aleksandarkovacevic30.github.io/solutions/power-automate/post-configuration-guide</id>
+        <updated>2025-03-13T00:00:00+00:00</updated>
+        <summary>
+        
+        Power Automate post-configuration guide.
+        
+        
+        
+        Tags: integration, microsoft, powerapps, dataverse.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Ingress NGINX vulnerabilities (not impacted)</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/security/ingress-nginx-controller" />
+        <id>https://aleksandarkovacevic30.github.io/operate/security/ingress-nginx-controller</id>
+        <updated>2025-03-25T00:00:00+00:00</updated>
+        <summary>
+        
+        Ingress NGINX vulnerabilities (not impacted).
+        
+        
+        
+        Tags: security.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Open Mirroring connector</title>
+        <link href="https://aleksandarkovacevic30.github.io/publish/export-targets/openmirroring-connector" />
+        <id>https://aleksandarkovacevic30.github.io/publish/export-targets/openmirroring-connector</id>
+        <updated>2025-03-30T00:00:00+00:00</updated>
+        <summary>
+        
+        Open Mirroring connector.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Configure a manual data entry project</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/manual-data-entry/configure-a-manual-data-entry-project" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/manual-data-entry/configure-a-manual-data-entry-project</id>
+        <updated>2025-04-01T00:00:00+00:00</updated>
+        <summary>
+        
+        Configure a manual data entry project.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Add records in a manual data entry project</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/manual-data-entry/add-records-in-a-manual-data-entry-project" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/manual-data-entry/add-records-in-a-manual-data-entry-project</id>
+        <updated>2025-04-01T00:00:00+00:00</updated>
+        <summary>
+        
+        Add records in a manual data entry project.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Manage a manual data entry project</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/manual-data-entry/manage-a-manual-data-entry-project" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/manual-data-entry/manage-a-manual-data-entry-project</id>
+        <updated>2025-04-01T00:00:00+00:00</updated>
+        <summary>
+        
+        Manage a manual data entry project.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Manual data entry</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/manual-data-entry" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/manual-data-entry</id>
+        <updated>2025-04-01T00:00:00+00:00</updated>
+        <summary>
+        
+        Manual data entry.
+        
+        
+        Some data has no source system - it lives in someone&apos;s head or a spreadsheet.
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Terminology changes</title>
+        <link href="https://aleksandarkovacevic30.github.io/release-notes/terminology-changes" />
+        <id>https://aleksandarkovacevic30.github.io/release-notes/terminology-changes</id>
+        <updated>2025-04-02T00:00:00+00:00</updated>
+        <summary>
+        
+        Terminology changes.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Preview</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/processing/preview" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/processing/preview</id>
+        <updated>2025-04-03T00:00:00+00:00</updated>
+        <summary>
+        
+        Preview.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Validations</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/processing/validations" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/processing/validations</id>
+        <updated>2025-04-03T00:00:00+00:00</updated>
+        <summary>
+        
+        Validations.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Approval</title>
+        <link href="https://aleksandarkovacevic30.github.io/ingest/processing/approval" />
+        <id>https://aleksandarkovacevic30.github.io/ingest/processing/approval</id>
+        <updated>2025-04-03T00:00:00+00:00</updated>
+        <summary>
+        
+        Approval.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>SQL Server connector</title>
+        <link href="https://aleksandarkovacevic30.github.io/publish/export-targets/sql-server-connector" />
+        <id>https://aleksandarkovacevic30.github.io/publish/export-targets/sql-server-connector</id>
+        <updated>2025-04-03T00:00:00+00:00</updated>
+        <summary>
+        
+        SQL Server connector.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Best practices for rules</title>
+        <link href="https://aleksandarkovacevic30.github.io/govern/rules/best-practices-for-rules" />
+        <id>https://aleksandarkovacevic30.github.io/govern/rules/best-practices-for-rules</id>
+        <updated>2025-04-11T00:00:00+00:00</updated>
+        <summary>
+        
+        Best practices for rules.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Stream logs</title>
+        <link href="https://aleksandarkovacevic30.github.io/publish/streams/stream-logs" />
+        <id>https://aleksandarkovacevic30.github.io/publish/streams/stream-logs</id>
+        <updated>2025-04-18T00:00:00+00:00</updated>
+        <summary>
+        
+        Stream logs.
+        
+        
+        
+        Tags: consume, data export, streams.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Purview pre-configuration guide</title>
+        <link href="https://aleksandarkovacevic30.github.io/solutions/purview/pre-configuration-guide" />
+        <id>https://aleksandarkovacevic30.github.io/solutions/purview/pre-configuration-guide</id>
+        <updated>2025-04-30T00:00:00+00:00</updated>
+        <summary>
+        
+        Purview pre-configuration guide.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Purview configuration guide</title>
+        <link href="https://aleksandarkovacevic30.github.io/solutions/purview/configuration-guide" />
+        <id>https://aleksandarkovacevic30.github.io/solutions/purview/configuration-guide</id>
+        <updated>2025-04-30T00:00:00+00:00</updated>
+        <summary>
+        
+        Purview configuration guide.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Sync data sources</title>
+        <link href="https://aleksandarkovacevic30.github.io/solutions/purview/sync-data-sources" />
+        <id>https://aleksandarkovacevic30.github.io/solutions/purview/sync-data-sources</id>
+        <updated>2025-04-30T00:00:00+00:00</updated>
+        <summary>
+        
+        Sync data sources.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Data factory pipeline run schedule</title>
+        <link href="https://aleksandarkovacevic30.github.io/solutions/purview/data-factory-pipeline-run-schedule" />
+        <id>https://aleksandarkovacevic30.github.io/solutions/purview/data-factory-pipeline-run-schedule</id>
+        <updated>2025-04-30T00:00:00+00:00</updated>
+        <summary>
+        
+        Data factory pipeline run schedule.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Sync manual data entry to Purview</title>
+        <link href="https://aleksandarkovacevic30.github.io/solutions/purview/sync-manual-data-entry-to-purview" />
+        <id>https://aleksandarkovacevic30.github.io/solutions/purview/sync-manual-data-entry-to-purview</id>
+        <updated>2025-04-30T00:00:00+00:00</updated>
+        <summary>
+        
+        Sync manual data entry to Purview.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Sync processing rules to Purview</title>
+        <link href="https://aleksandarkovacevic30.github.io/solutions/purview/sync-processing-rules-to-purview" />
+        <id>https://aleksandarkovacevic30.github.io/solutions/purview/sync-processing-rules-to-purview</id>
+        <updated>2025-04-30T00:00:00+00:00</updated>
+        <summary>
+        
+        Sync processing rules to Purview.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Sync clean projects to Purview</title>
+        <link href="https://aleksandarkovacevic30.github.io/solutions/purview/sync-clean-projects-to-purview" />
+        <id>https://aleksandarkovacevic30.github.io/solutions/purview/sync-clean-projects-to-purview</id>
+        <updated>2025-04-30T00:00:00+00:00</updated>
+        <summary>
+        
+        Sync clean projects to Purview.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Sync deduplication projects to Purview</title>
+        <link href="https://aleksandarkovacevic30.github.io/solutions/purview/sync-deduplication-projects-to-purview" />
+        <id>https://aleksandarkovacevic30.github.io/solutions/purview/sync-deduplication-projects-to-purview</id>
+        <updated>2025-04-30T00:00:00+00:00</updated>
+        <summary>
+        
+        Sync deduplication projects to Purview.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Sync streams to Purview</title>
+        <link href="https://aleksandarkovacevic30.github.io/solutions/purview/sync-streams-to-purview" />
+        <id>https://aleksandarkovacevic30.github.io/solutions/purview/sync-streams-to-purview</id>
+        <updated>2025-04-30T00:00:00+00:00</updated>
+        <summary>
+        
+        Sync streams to Purview.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Sync Purview glossaries to CluedIn glossaries</title>
+        <link href="https://aleksandarkovacevic30.github.io/solutions/purview/sync-purview-glossaries-to-cluedin-glossaries" />
+        <id>https://aleksandarkovacevic30.github.io/solutions/purview/sync-purview-glossaries-to-cluedin-glossaries</id>
+        <updated>2025-04-30T00:00:00+00:00</updated>
+        <summary>
+        
+        Sync Purview glossaries to CluedIn glossaries.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Sync Purview glossaries to CluedIn vocabularies</title>
+        <link href="https://aleksandarkovacevic30.github.io/solutions/purview/sync-purview-glossaries-to-cluedin-vocabularies" />
+        <id>https://aleksandarkovacevic30.github.io/solutions/purview/sync-purview-glossaries-to-cluedin-vocabularies</id>
+        <updated>2025-04-30T00:00:00+00:00</updated>
+        <summary>
+        
+        Sync Purview glossaries to CluedIn vocabularies.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Sync data products</title>
+        <link href="https://aleksandarkovacevic30.github.io/solutions/purview/sync-data-products" />
+        <id>https://aleksandarkovacevic30.github.io/solutions/purview/sync-data-products</id>
+        <updated>2025-04-30T00:00:00+00:00</updated>
+        <summary>
+        
+        Sync data products.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Golden record relations</title>
+        <link href="https://aleksandarkovacevic30.github.io/master/golden-records/golden-record-relations" />
+        <id>https://aleksandarkovacevic30.github.io/master/golden-records/golden-record-relations</id>
+        <updated>2025-05-20T00:00:00+00:00</updated>
+        <summary>
+        
+        Golden record relations.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Explain Log</title>
+        <link href="https://aleksandarkovacevic30.github.io/master/golden-records/explain-log" />
+        <id>https://aleksandarkovacevic30.github.io/master/golden-records/explain-log</id>
+        <updated>2025-05-20T00:00:00+00:00</updated>
+        <summary>
+        
+        Explain Log.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Upgrade guide</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/upgrade/guide" />
+        <id>https://aleksandarkovacevic30.github.io/operate/upgrade/guide</id>
+        <updated>2025-09-22T00:00:00+00:00</updated>
+        <summary>
+        
+        Upgrade guide.
+        
+        
+        
+        Tags: deployment, ama, marketplace, azure, aks, kubernetes, upgrade.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Required tools for CluedIn upgrade</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/upgrade/required-tools" />
+        <id>https://aleksandarkovacevic30.github.io/operate/upgrade/required-tools</id>
+        <updated>2025-09-22T00:00:00+00:00</updated>
+        <summary>
+        
+        Required tools for CluedIn upgrade.
+        
+        
+        
+        Tags: deployment, ama, marketplace, azure, aks, kubernetes, upgrade.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Plan the upgrade</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/upgrade/plan-the-upgrade" />
+        <id>https://aleksandarkovacevic30.github.io/operate/upgrade/plan-the-upgrade</id>
+        <updated>2025-09-22T00:00:00+00:00</updated>
+        <summary>
+        
+        Plan the upgrade.
+        
+        
+        
+        Tags: deployment, ama, marketplace, azure, aks, kubernetes, upgrade.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Prepare for the upgrade</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/upgrade/prepare-for-the-upgrade" />
+        <id>https://aleksandarkovacevic30.github.io/operate/upgrade/prepare-for-the-upgrade</id>
+        <updated>2025-09-22T00:00:00+00:00</updated>
+        <summary>
+        
+        Prepare for the upgrade.
+        
+        
+        
+        Tags: deployment, ama, marketplace, azure, aks, kubernetes, upgrade.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Perform the upgrade</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/upgrade/perform-the-upgrade" />
+        <id>https://aleksandarkovacevic30.github.io/operate/upgrade/perform-the-upgrade</id>
+        <updated>2025-09-22T00:00:00+00:00</updated>
+        <summary>
+        
+        Perform the upgrade.
+        
+        
+        
+        Tags: deployment, ama, marketplace, azure, aks, kubernetes, upgrade.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Common upgrade operations</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/upgrade/common-upgrade-operations" />
+        <id>https://aleksandarkovacevic30.github.io/operate/upgrade/common-upgrade-operations</id>
+        <updated>2025-09-22T00:00:00+00:00</updated>
+        <summary>
+        
+        Common upgrade operations.
+        
+        
+        
+        Tags: deployment, ama, marketplace, azure, aks, kubernetes, upgrade.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Resolve common upgrade issues</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/upgrade/resolve-common-upgrade-issues" />
+        <id>https://aleksandarkovacevic30.github.io/operate/upgrade/resolve-common-upgrade-issues</id>
+        <updated>2025-09-22T00:00:00+00:00</updated>
+        <summary>
+        
+        Resolve common upgrade issues.
+        
+        
+        
+        Tags: deployment, ama, marketplace, azure, aks, kubernetes, upgrade.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Power Apps configuration guide</title>
+        <link href="https://aleksandarkovacevic30.github.io/solutions/power-apps/configuration-guide" />
+        <id>https://aleksandarkovacevic30.github.io/solutions/power-apps/configuration-guide</id>
+        <updated>2025-09-29T00:00:00+00:00</updated>
+        <summary>
+        
+        Power Apps configuration guide.
+        
+        
+        
+        Tags: integration, microsoft, powerapps, dataverse.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Data factory pipeline automation</title>
+        <link href="https://aleksandarkovacevic30.github.io/solutions/purview/data-factory-pipeline-automation" />
+        <id>https://aleksandarkovacevic30.github.io/solutions/purview/data-factory-pipeline-automation</id>
+        <updated>2025-10-09T00:00:00+00:00</updated>
+        <summary>
+        
+        Data factory pipeline automation.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Licensing agent (PAAS)</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/deployment-options/marketplace-licensing-agent" />
+        <id>https://aleksandarkovacevic30.github.io/operate/deployment-options/marketplace-licensing-agent</id>
+        <updated>2025-11-20T00:00:00+00:00</updated>
+        <summary>
+        
+        Licensing agent (PAAS).
+        
+        
+        
+        Tags: deployment, licensing-agent, azure, microsoft, marketplace, azure-marketplace.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Azure Policy exemption for deployment scripts</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/deployment-options/azure-policy-exemption" />
+        <id>https://aleksandarkovacevic30.github.io/operate/deployment-options/azure-policy-exemption</id>
+        <updated>2025-11-20T00:00:00+00:00</updated>
+        <summary>
+        
+        Azure Policy exemption for deployment scripts.
+        
+        
+        
+        Tags: deployment, licensing-agent, azure, microsoft, marketplace, azure-marketplace.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Dataverse connector</title>
+        <link href="https://aleksandarkovacevic30.github.io/publish/export-targets/dataverse-connector-v2" />
+        <id>https://aleksandarkovacevic30.github.io/publish/export-targets/dataverse-connector-v2</id>
+        <updated>2026-04-13T00:00:00+00:00</updated>
+        <summary>
+        
+        Dataverse connector.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Dataverse connector (legacy)</title>
+        <link href="https://aleksandarkovacevic30.github.io/publish/export-targets/dataverse-connector" />
+        <id>https://aleksandarkovacevic30.github.io/publish/export-targets/dataverse-connector</id>
+        <updated>2026-04-13T00:00:00+00:00</updated>
+        <summary>
+        
+        Dataverse connector (legacy).
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Power Automate private network configuration guide</title>
+        <link href="https://aleksandarkovacevic30.github.io/solutions/power-automate/private-network" />
+        <id>https://aleksandarkovacevic30.github.io/solutions/power-automate/private-network</id>
+        <updated>2026-08-10T00:00:00+00:00</updated>
+        <summary>
+        
+        Power Automate private network configuration guide.
+        
+        
+        
+        Tags: integration, microsoft, powerapps, dataverse.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>CluedIn Python SDK</title>
+        <link href="https://aleksandarkovacevic30.github.io/develop/python-sdk/python-sdk" />
+        <id>https://aleksandarkovacevic30.github.io/develop/python-sdk/python-sdk</id>
+        <updated>2026-09-03T00:00:00+00:00</updated>
+        <summary>
+        
+        CluedIn Python SDK.
+        
+        
+        
+        Tags: python.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Configure Microsoft Entra roles for multi-tenant SaaS SSO</title>
+        <link href="https://aleksandarkovacevic30.github.io/administer/users-and-roles/mt-saas-sso-roles" />
+        <id>https://aleksandarkovacevic30.github.io/administer/users-and-roles/mt-saas-sso-roles</id>
+        <updated>2026-09-15T00:00:00+00:00</updated>
+        <summary>
+        
+        Configure Microsoft Entra roles for multi-tenant SaaS SSO.
+        
+        
+        
+        Tags: administration, roles, sso, saas, entra.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Tag monitoring</title>
+        <link href="https://aleksandarkovacevic30.github.io/govern/tags/tag-monitoring" />
+        <id>https://aleksandarkovacevic30.github.io/govern/tags/tag-monitoring</id>
+        <updated>2026-09-23T00:00:00+00:00</updated>
+        <summary>
+        
+        Tag monitoring.
+        
+        
+        
+        Tags: governance, tag monitoring, tags.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Amazon S3 connector</title>
+        <link href="https://aleksandarkovacevic30.github.io/publish/export-targets/amazon-s3-connector" />
+        <id>https://aleksandarkovacevic30.github.io/publish/export-targets/amazon-s3-connector</id>
+        <updated>2026-09-23T00:00:00+00:00</updated>
+        <summary>
+        
+        Amazon S3 connector.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Azure Event Hub connector</title>
+        <link href="https://aleksandarkovacevic30.github.io/publish/export-targets/azure-event-hub-connector" />
+        <id>https://aleksandarkovacevic30.github.io/publish/export-targets/azure-event-hub-connector</id>
+        <updated>2026-09-23T00:00:00+00:00</updated>
+        <summary>
+        
+        Azure Event Hub connector.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Rules reference</title>
+        <link href="https://aleksandarkovacevic30.github.io/govern/rules/rules-reference" />
+        <id>https://aleksandarkovacevic30.github.io/govern/rules/rules-reference</id>
+        <updated>2026-09-23T00:00:00+00:00</updated>
+        <summary>
+        
+        Rules reference.
+        
+        
+        
+        Tags: management, rules.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Feature flags</title>
+        <link href="https://aleksandarkovacevic30.github.io/administer/feature-flags" />
+        <id>https://aleksandarkovacevic30.github.io/administer/feature-flags</id>
+        <updated>2026-09-23T00:00:00+00:00</updated>
+        <summary>
+        
+        Feature flags.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Power Fx formulas</title>
+        <link href="https://aleksandarkovacevic30.github.io/govern/rules/power-fx-formulas" />
+        <id>https://aleksandarkovacevic30.github.io/govern/rules/power-fx-formulas</id>
+        <updated>2026-09-23T00:00:00+00:00</updated>
+        <summary>
+        
+        Power Fx formulas.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Notifications</title>
+        <link href="https://aleksandarkovacevic30.github.io/administer/ui-configuration/notifications" />
+        <id>https://aleksandarkovacevic30.github.io/administer/ui-configuration/notifications</id>
+        <updated>2026-09-23T00:00:00+00:00</updated>
+        <summary>
+        
+        Notifications.
+        
+        
+        
+        Tags: ui, notifications.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Global Data Model</title>
+        <link href="https://aleksandarkovacevic30.github.io/model/global-data-model" />
+        <id>https://aleksandarkovacevic30.github.io/model/global-data-model</id>
+        <updated>2026-09-24T00:00:00+00:00</updated>
+        <summary>
+        
+        Global Data Model.
+        
+        
+        
+        Tags: governance, data model, ontology, business domains, relationships.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Golden records</title>
+        <link href="https://aleksandarkovacevic30.github.io/get-started/core-concepts/golden-records" />
+        <id>https://aleksandarkovacevic30.github.io/get-started/core-concepts/golden-records</id>
+        <updated>2026-09-24T00:00:00+00:00</updated>
+        <summary>
+        
+        Golden records.
+        
+        
+        
+        Tags: golden record.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>GraphQL actions</title>
+        <link href="https://aleksandarkovacevic30.github.io/publish/graphql/graphql-actions" />
+        <id>https://aleksandarkovacevic30.github.io/publish/graphql/graphql-actions</id>
+        <updated>2026-09-24T00:00:00+00:00</updated>
+        <summary>
+        
+        GraphQL actions.
+        
+        
+        
+        Tags: consume, graphql.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Work with CluedIn Copilot</title>
+        <link href="https://aleksandarkovacevic30.github.io/solutions/copilot/work-with-copilot" />
+        <id>https://aleksandarkovacevic30.github.io/solutions/copilot/work-with-copilot</id>
+        <updated>2026-09-24T00:00:00+00:00</updated>
+        <summary>
+        
+        Work with CluedIn Copilot.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Job monitoring</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/monitoring/job-monitoring" />
+        <id>https://aleksandarkovacevic30.github.io/operate/monitoring/job-monitoring</id>
+        <updated>2026-09-24T00:00:00+00:00</updated>
+        <summary>
+        
+        Job monitoring.
+        
+        
+        
+        Tags: management, monitoring, jobs, operations.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Jobs</title>
+        <link href="https://aleksandarkovacevic30.github.io/administer/jobs" />
+        <id>https://aleksandarkovacevic30.github.io/administer/jobs</id>
+        <updated>2026-09-24T00:00:00+00:00</updated>
+        <summary>
+        
+        Jobs.
+        
+        
+        
+        Tags: management, jobs, scheduling, rules, graphql.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Configuration import and export</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/configuration/configuration-import-export" />
+        <id>https://aleksandarkovacevic30.github.io/operate/configuration/configuration-import-export</id>
+        <updated>2026-09-24T00:00:00+00:00</updated>
+        <summary>
+        
+        Configuration import and export.
+        
+        
+        
+        Tags: administration, configuration, deployment, import, export.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>AI agents</title>
+        <link href="https://aleksandarkovacevic30.github.io/govern/ai-agents" />
+        <id>https://aleksandarkovacevic30.github.io/govern/ai-agents</id>
+        <updated>2026-09-24T00:00:00+00:00</updated>
+        <summary>
+        
+        AI agents.
+        
+        
+        AI agents do stewardship work for you - proposing fixes for quality problems, suggesting duplicates to merge, drafting rules.
+        
+        
+        Tags: management, ai agents.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Federate identity providers through Microsoft Entra</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/identity-providers/external-idp-entra-sso" />
+        <id>https://aleksandarkovacevic30.github.io/operate/identity-providers/external-idp-entra-sso</id>
+        <updated>2026-10-01T00:00:00+00:00</updated>
+        <summary>
+        
+        Federate identity providers through Microsoft Entra.
+        
+        
+        
+        Tags: authentication, sso, entra, external-idp.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Sign in with Auth0 through Microsoft Entra</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/identity-providers/auth0-entra-sso" />
+        <id>https://aleksandarkovacevic30.github.io/operate/identity-providers/auth0-entra-sso</id>
+        <updated>2026-10-01T00:00:00+00:00</updated>
+        <summary>
+        
+        Sign in with Auth0 through Microsoft Entra.
+        
+        
+        
+        Tags: authentication, sso, entra, auth0.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Sign in with Okta through Microsoft Entra</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/identity-providers/okta-entra-sso" />
+        <id>https://aleksandarkovacevic30.github.io/operate/identity-providers/okta-entra-sso</id>
+        <updated>2026-10-01T00:00:00+00:00</updated>
+        <summary>
+        
+        Sign in with Okta through Microsoft Entra.
+        
+        
+        
+        Tags: authentication, sso, entra, okta.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Sign in with PingOne through Microsoft Entra</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/identity-providers/pingone-entra-sso" />
+        <id>https://aleksandarkovacevic30.github.io/operate/identity-providers/pingone-entra-sso</id>
+        <updated>2026-10-01T00:00:00+00:00</updated>
+        <summary>
+        
+        Sign in with PingOne through Microsoft Entra.
+        
+        
+        
+        Tags: authentication, sso, entra, pingone.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Sign in with OneLogin through Microsoft Entra</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/identity-providers/onelogin-entra-sso" />
+        <id>https://aleksandarkovacevic30.github.io/operate/identity-providers/onelogin-entra-sso</id>
+        <updated>2026-10-01T00:00:00+00:00</updated>
+        <summary>
+        
+        Sign in with OneLogin through Microsoft Entra.
+        
+        
+        
+        Tags: authentication, sso, entra, onelogin.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Sign in with Google Workspace through Microsoft Entra</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/identity-providers/google-workspace-entra-sso" />
+        <id>https://aleksandarkovacevic30.github.io/operate/identity-providers/google-workspace-entra-sso</id>
+        <updated>2026-10-01T00:00:00+00:00</updated>
+        <summary>
+        
+        Sign in with Google Workspace through Microsoft Entra.
+        
+        
+        
+        Tags: authentication, sso, entra, google-workspace.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Sign in with Keycloak through Microsoft Entra</title>
+        <link href="https://aleksandarkovacevic30.github.io/operate/identity-providers/keycloak-entra-sso" />
+        <id>https://aleksandarkovacevic30.github.io/operate/identity-providers/keycloak-entra-sso</id>
+        <updated>2026-10-01T00:00:00+00:00</updated>
+        <summary>
+        
+        Sign in with Keycloak through Microsoft Entra.
+        
+        
+        
+        Tags: authentication, sso, entra, keycloak.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Snowflake connector</title>
+        <link href="https://aleksandarkovacevic30.github.io/publish/export-targets/snowflake-connector" />
+        <id>https://aleksandarkovacevic30.github.io/publish/export-targets/snowflake-connector</id>
+        <updated>2026-10-07T00:00:00+00:00</updated>
+        <summary>
+        
+        Snowflake connector.
+        
+        
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Create a stream</title>
+        <link href="https://aleksandarkovacevic30.github.io/publish/streams/create-a-stream" />
+        <id>https://aleksandarkovacevic30.github.io/publish/streams/create-a-stream</id>
+        <updated>2026-10-10T00:00:00+00:00</updated>
+        <summary>
+        
+        Create a stream.
+        
+        
+        
+        Tags: consume, data export, streams.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Manage rules</title>
+        <link href="https://aleksandarkovacevic30.github.io/govern/rules/manage-rules" />
+        <id>https://aleksandarkovacevic30.github.io/govern/rules/manage-rules</id>
+        <updated>2026-10-10T00:00:00+00:00</updated>
+        <summary>
+        
+        Manage rules.
+        
+        
+        
+        Tags: management, rules.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Manage streams</title>
+        <link href="https://aleksandarkovacevic30.github.io/publish/streams/manage-streams" />
+        <id>https://aleksandarkovacevic30.github.io/publish/streams/manage-streams</id>
+        <updated>2026-10-10T00:00:00+00:00</updated>
+        <summary>
+        
+        Manage streams.
+        
+        
+        
+        Tags: consume, data export, streams.
+        
+        </summary>
+    </entry>
+    
+</feed>
