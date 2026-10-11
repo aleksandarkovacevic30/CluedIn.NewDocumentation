@@ -1,11 +1,17 @@
-name: Deploy Multi-Version Docs
+name: Deploy to GitHub Pages
 
 on:
   push:
     branches:
-      - master
-      - v2025-05
+      - main
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
 
 jobs:
   build-and-deploy:
@@ -14,8 +20,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -23,20 +27,29 @@ jobs:
           ruby-version: 3.1
           bundler-cache: true
 
-      - name: Install dependencies
-        run: bundle install
-
-      # Build master branch into root (latest)
-      - name: Build master version
-        if: github.ref == 'refs/heads/master'
+      # A project site is served from https://<owner>.github.io/<repo>/, so the
+      # build overrides url and baseurl from _config.yml, which describe
+      # documentation.cluedin.net. _plugins/baseurl_links.rb prefixes the
+      # root-relative links in the articles with the baseurl.
+      - name: Build site
+        env:
+          JEKYLL_ENV: production
+          OWNER: ${{ github.repository_owner }}
+          REPO: ${{ github.event.repository.name }}
         run: |
-          JEKYLL_ENV=production bundle exec jekyll build -d build
+          printf 'url: "https://%s.github.io"\nbaseurl: "/%s"\n' \
+            "${OWNER,,}" "$REPO" > _config.pages.yml
+          bundle exec jekyll build -d build --config _config.yml,_config.pages.yml
 
-      # Deploy both builds into gh-pages branch
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      # CNAME belongs to documentation.cluedin.net. Publishing it from here
+      # would point this repository's Pages site at that domain.
+      - name: Drop the production CNAME
+        run: rm -f build/CNAME
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./build
-          keep_files: true
+          enable_jekyll: false
