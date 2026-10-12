@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>CluedIn Documentation</title>
     <link href="https://aleksandarkovacevic30.github.io"/>
-    <updated>2026-10-12T18:30:39+00:00</updated>
+    <updated>2026-10-12T20:00:23+00:00</updated>
     <author>
         <name>CluedIn</name>
     </author>
@@ -1916,22 +1916,6 @@
     </entry>
     
     <entry>
-        <title>Notifications</title>
-        <link href="https://aleksandarkovacevic30.github.io/administer/ui-configuration/notifications" />
-        <id>https://aleksandarkovacevic30.github.io/administer/ui-configuration/notifications</id>
-        <updated>2026-09-23T00:00:00+00:00</updated>
-        <summary>
-        
-        Notifications.
-        
-        
-        
-        Tags: ui, notifications.
-        
-        </summary>
-    </entry>
-    
-    <entry>
         <title>Global Data Model</title>
         <link href="https://aleksandarkovacevic30.github.io/model/global-data-model" />
         <id>https://aleksandarkovacevic30.github.io/model/global-data-model</id>
@@ -2229,6 +2213,38 @@
         
         
         Tags: consume, data export, streams.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>Notifications</title>
+        <link href="https://aleksandarkovacevic30.github.io/administer/ui-configuration/notifications" />
+        <id>https://aleksandarkovacevic30.github.io/administer/ui-configuration/notifications</id>
+        <updated>2026-10-12T00:00:00+00:00</updated>
+        <summary>
+        
+        Notifications.
+        
+        
+        
+        Tags: ui, notifications.
+        
+        </summary>
+    </entry>
+    
+    <entry>
+        <title>General settings</title>
+        <link href="https://aleksandarkovacevic30.github.io/administer/general-settings" />
+        <id>https://aleksandarkovacevic30.github.io/administer/general-settings</id>
+        <updated>2026-10-12T00:00:00+00:00</updated>
+        <summary>
+        
+        General settings.
+        
+        
+        
+        Tags: administration, settings, notifications.
         
         </summary>
     </entry>
